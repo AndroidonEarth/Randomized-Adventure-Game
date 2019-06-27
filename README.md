@@ -1,5 +1,5 @@
 # Randomized-Adventure-Game
-A short point-A-to-point-B adventure game where the rooms are randomized.
+A short point-A-to-point-B adventure game where the rooms are randomized. An exercise in Raw C I/O, file and directory management, and mutex/thread manipulation. 
 
 # Instructions
 Compile the two programs using the following lines:
